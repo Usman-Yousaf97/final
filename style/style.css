@@ -1,0 +1,830 @@
+.bg-img
+{
+    background-image: url(../images/banner-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+.text1
+{
+    margin-top:110px;
+    font-size: 28px;
+    color: white;
+}
+.text2
+{
+    font-size: 55px;
+    color: white;
+}
+
+.text3
+{
+    font-size: 18px;
+    color: white;
+    margin-top: 50px;
+}
+.text4
+{
+    font-size: 18px;
+    color: white;
+    
+}
+.btn1{
+    background-color: #fc097c;
+    color: white;
+    font-size: small;
+    height: 35px;
+}
+
+
+
+
+
+.text5
+{
+    font-size: 1.4rem;
+    font-weight: bold;
+    color:rgba(68, 120, 255);
+}
+.text6
+{
+    font-size: 14px;
+    color: #5e6e82;
+    line-height: 20px;
+    font-weight: 400;
+}
+.link1{
+    font-size: 11px;
+}
+
+.link3{
+    
+    font-size: 11px;
+}
+
+.text7
+{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: rgba(68, 120, 255);
+}
+.text8
+{
+    font-size: 14px;
+    color: #5e6e82;
+    line-height: 20px;
+    font-weight: 400;
+}
+.bg-img2
+{
+    background-image: url(../images/organizers-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: purple;
+    width: 100%;
+}
+
+.text9
+{
+    font-size: 50px;
+    color: white;
+}
+
+.text10
+{
+    font-size: 16px;
+    color: white;
+}
+
+.text11
+{
+    font-size: 11px;
+    color: white;
+}
+.fa-color
+{
+    color: white;
+}
+.text12
+{
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.7);
+    line-height: 20px;
+}
+
+.sec3{
+    background-color: rgba(47,23,86,.82);
+    width: 100%;
+    
+    
+}
+
+.text13
+{
+    font-size: 16px;
+    color: white;
+}
+
+.text14
+{
+    font-size: 11px;
+    color: white;
+}
+
+.text15
+{
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.7);
+    line-height: 20px;
+}
+
+.text16
+{
+    font-size: 16px;
+    color: white;
+}
+
+.text17
+{
+    font-size: 11px;
+    color: white;
+}
+
+.text18
+{
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.7);
+    line-height: 20px;
+    
+}
+
+.text19
+{
+    font-size: 16px;
+    color: white;
+}
+
+.text20
+{
+    font-size: 11px;
+    color: white;
+}
+
+.text21
+{
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.7);
+    line-height: 20px;
+}
+.line{
+    background: rgba(255, 255, 255, .2);
+}
+.imgorg{
+    object-fit: cover;
+}
+
+.text22
+{
+    font-size: 40px;
+    color: blue;
+}
+
+.text23
+{
+    font-size: 16px;
+    color:#5e6e82;
+    line-height: 25px;
+}
+.text24
+{
+    font-size: 14px;
+    color:#5e6e82;
+    line-height: 20px;
+}
+
+
+.fa1-color{
+    color: #9da9bb;
+    
+}
+.text25{
+    font: size 40px;
+    color: blue;
+}
+
+.text26{
+    font: size 30px;
+    color:teal;
+}
+.text29{
+    font-size: 12px;
+    color: rgba(68, 120, 255);
+}
+.text30{
+    font-size: 12px;
+    color: #9da9bb;
+    
+}
+
+.text31
+{
+    font-size: 13px;
+    color: #5e6e82;
+    text-align: left;
+    line-height: 20px;
+}
+
+.text32{
+    font-size: 12px;
+    color: rgba(68, 120, 255);
+}
+.text33{
+    font-size: 12px;
+    color: #9da9bb;
+}
+
+.text34
+{
+    font-size: 13px;
+    color: #5e6e82;
+    text-align: left;
+    line-height: 20px;
+}
+
+.text35{
+    font-size: 12px;
+    color: rgba(68, 120, 255);
+}
+.text36{
+    font-size: 12px;
+    color: #9da9bb;
+}
+
+.text37
+{
+    font-size: 13px;
+    color: #5e6e82;
+    text-align: left;
+    line-height: 20px;
+}
+
+.text38{
+    font-size: 12px;
+    color: rgba(68, 120, 255);
+}
+.text39{
+    font-size: 12px;
+    color: #9da9bb;
+}
+
+.text40
+{
+    font-size: 13px;
+    color: #5e6e82;
+    text-align: left;
+    line-height: 20px;
+}
+
+.text41{
+    font-size: 12px;
+    color: rgba(68, 120, 255);
+}
+.text42{
+    font-size: 12px;
+    color:#9da9bb;
+}
+
+.text43
+{
+    font-size: 13px;
+    color: #5e6e82;
+    text-align: left;
+    line-height: 20px;
+}
+
+.text44{
+    font-size: 12px;
+    color:rgba(68, 120, 255);
+}
+.text45{
+    font-size: 12px;
+    color: #9da9bb;
+}
+
+.text46
+{
+    font-size: 13px;
+    color: #5e6e82;
+    text-align: left;
+    line-height: 20px;
+}
+
+.bg-img3{
+    background-image: url(../images/submit-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.text47{
+    font-size: 30px;
+    color: white;
+}
+
+.text48{
+    font-size: 30px;
+    color: white;
+}
+
+.text49{
+    font-size: 17px;
+    color: white;
+}
+
+.btn2{
+    border-radius: 20px;
+    border: 1px solid;
+    width: 150px;
+    height: 40px;
+    
+}
+.text50{
+    font-size: 40px;
+    color: blue;
+}
+
+.bg-img4{
+    background-image: url(../images/bg-eventschedule.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(250, 250, 252, .95);
+    height: 0 auto;
+}
+
+.sec4{
+
+    background :rgba(250, 250, 252, .95) ;
+    width: 100%;
+    height: 0 auto;
+    
+}
+
+.text51{
+    font-size: 30px;
+    color: blue;
+}
+
+.text52{
+    font-size: 20px;
+    color: green;
+}
+.text53{
+    font-size: 16px;
+    color: grey;
+
+}
+
+.text54{
+    font-size: 16px;
+    
+
+}
+
+.text55{
+    font-size: 16px;
+    color: grey;
+
+}
+
+.text56{
+    font-size: 16px;
+    color: grey;
+
+}
+.text57{
+    font-size: 16px;
+    
+
+}
+
+
+
+
+
+
+
+
+.text58{
+    font-size: 30px;
+    color: blue;
+}
+
+.text59{
+    font-size: 16px;
+    color: grey;
+}
+.text60{
+    font-size: 16px;
+    
+
+}
+
+.text61{
+    font-size: 16px;
+    
+
+}
+
+.text62{
+    font-size: 16px;
+    color: grey;
+
+}
+
+.text63{
+    font-size: 16px;
+    color: grey;
+
+}
+.text64{
+    font-size: 16px;
+    
+
+}
+
+.text65{
+    font-size: 16px;
+    color: grey;
+}
+.text66{
+    font-size: 16px;
+    color:green;
+}
+
+.text67{
+    font-size: 16px;
+    color: grey;
+}
+
+.text68{
+    font-size:40px ;
+    color: rgba(68, 120, 255);
+    font-weight: bolder;
+}
+
+.img-hover {
+    position: relative;
+    width: 100%;
+}
+
+.img-overlay {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-color: red;
+    opacity: 0;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    transition: 0.5s ease;
+}
+
+.img-hover:hover .img-overlay {
+    bottom: 100%;
+    height: 100%;
+    background: rgba(40, 23, 86, .82)!important;
+    opacity: 1;
+}
+
+.overlay-text {
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    opacity: 1!important;
+    width: 80%;
+    font-family: Oswald, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.text70{
+    font-size: 40px;
+    color: rgba(68, 120, 255);
+    font-weight: bolder;
+}
+
+.text72{
+    font-size: 40px;
+    color: rgba(68, 120, 255);
+    font-weight: bolder;
+}
+
+.pricbg-img{
+    background-image: url(../images/bg-pricing.png);
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.pricbg{
+    background-color: rgba(30, 19, 74, .97)!important;;
+}
+
+.text74{
+    font-size: 40px;
+    font-weight: bolder;
+    color: #fff;
+}
+
+.bronze{
+    border: rgba(255, 255, 255, .2) 1px solid;
+
+}
+.bg-transparent{
+    background-color: transparent!important;
+}
+
+
+
+.card{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-clip: border-box;
+    border-radius: .25rem;
+
+}
+
+
+.doller {
+    font-size: 20px;
+    margin-top: 6px;
+}
+
+.pric-title {
+    font-family: Oswald, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.prices {
+    font-family: Oswald, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 60px;
+    color: #fff;
+}
+
+.bronze {
+    border: rgba(255, 255, 255, .2) 1px solid;
+}
+
+.bronze-bottom {
+    border-bottom: rgba(255, 255, 255, .2) 1px solid;
+}
+
+.remanings {
+    font-size: 10px;
+    font-weight: lighter;
+    color: rgba(255, 255, 255, .5);
+    margin-top: 7px;
+    
+}
+
+    .price-itm-list li {
+        font-size: 10px;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
+    .join-btn {
+        background: transparent;
+        border: rgba(68, 120, 255, .85) 1px solid;
+        width: 150px;
+        color: #fff!important;
+        font-weight: bolder;
+        text-decoration: none;
+        transition: all 1s;
+        
+    }
+    
+    .join-btn:hover {
+        background: rgba(68, 120, 255, .85);
+    }
+    
+    .gold-btn {
+        background: rgba(68, 120, 255, .85);
+        transition: all 1s;
+    }
+    
+    .gold-btn:hover {
+        background: rgba(50, 60, 200, .85);
+    }
+    .text75{
+        font-size: 40px;
+        color: rgba(68, 120, 255);
+        font-weight: bolder;
+
+    }
+
+    .cont-sms{
+        height: 190px;
+        font-size: 14px;
+    }
+
+    .form-control{
+        display: block;
+        width: 100%;
+        font-weight: 400px;
+        line-height: 1.5rem;
+        background-color: #fff;
+        border: 1px solid;
+        border-radius: .25rem;
+    }
+
+    .textarea{
+        overflow: auto;
+        resize: vertical;
+    }
+
+     .btn2{
+         width: 100%;
+         height: 50px   ;
+     }
+
+     .faqbg {
+        background: #302758!important;
+    }
+    
+    .cont-name,
+    .cont-email {
+        height: 35px;
+        width: 100%;
+        color: #E6E0E0!important;
+        border: 1px solid #d8e2ef;
+        font-size: 14px;
+    }
+    
+    .cont-sms {
+        height: 190px!important;
+        font-size: 14px;
+    }
+    
+    .acord-text {
+        margin-left: 32px;
+        color: #fff;
+        margin-top: 10px;
+    }
+    
+    .foterbg {
+        background: #1e1449!important;
+    }
+    
+    .cr p {
+        font-size: 10px;
+        color: #f0f0f0;
+    }
+
+
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+/* 
+
+body {
+    background-color: lightgreen;
+  }
+  
+  @media only screen and (max-width: 320px) {
+    body {
+      background-color: lightblue;
+    }
+    .text1
+{
+    margin-top:200px;
+    font-size: 9px;
+    
+}
+.text2
+{
+    font-size: 19px;
+    
+    
+    
+}
+.text3
+{
+    font-size: 8px;
+   
+}
+.text4
+{
+    font-size: 8px;
+   
+}
+.btn1{
+    font-size: 9px;
+    width: 110px;
+    height: 20px;   
+}
+.text5
+{
+    font-size: 9px;    
+}
+.text7
+{
+    font-size: 9px;
+    padding-bottom: 50px;
+    
+}   
+.text6
+{
+    font-size: 5px;
+    line-height: 9px;
+    margin-right: 200px;
+}
+.link1{
+    font-size: 9px;   
+}
+.img1{
+    width: 100px;
+    margin-right: 250px;
+    margin-bottom: 100px;
+    
+}
+.text7
+{
+    font-size: 9px;
+    
+}
+
+
+  } */
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
